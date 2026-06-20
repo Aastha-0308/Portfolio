@@ -3,7 +3,7 @@ import { featuredProjects, aiProjects } from "../data/projects";
 
 function Projects() {
   return (
-    <section className="py-8 px-8 bg-blue-100">
+    <section id="projects" className="py-8 px-8 bg-blue-100">
 
       <div className="max-w-7xl mx-auto">
 

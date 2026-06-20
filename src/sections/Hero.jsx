@@ -2,7 +2,7 @@ import hero from "../assets/hero.jpg";
 
 function Hero() {
   return (
-    <section className="flex pt-24 bg-blue-100 pb-10">
+    <section id="hero" className="flex pt-24 bg-blue-100 pb-10">
       <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center">
         <div className="left flex-1 max-w-xl px-10 py-4 mx-2">
           <p className="uppercase tracking-[0.3em] text-sm text-pink-400">

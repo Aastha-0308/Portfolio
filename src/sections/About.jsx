@@ -2,7 +2,7 @@ import { GraduationCap, Brain, Code, MapPin, Coffee } from "lucide-react";
 
 function About() {
   return (
-    <section className="py-8 px-8 bg-cyan-50">
+    <section id="about" className="py-8 px-8 bg-cyan-50">
       <div className="max-w-4xl mx-auto">
         <h2 className="text-4xl font-bold text-center mb-10 font-comfortaa">
           About Me

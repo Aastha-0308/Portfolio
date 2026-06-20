@@ -6,3 +6,7 @@
   --font-monsieur: "Monsieur La Doulaise", cursive;
   --font-dancing-script: "Dancing Script", cursive;
 }
+
+html {
+  scroll-behavior: smooth;
+}

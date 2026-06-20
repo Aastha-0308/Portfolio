@@ -24,7 +24,7 @@ function ProjectCard({ title, description, tech, image, github, demo }) {
             href={github}
             target="_blank"
             rel="noopener noreferrer"
-            className="px-4 py-2 rounded-full bg-pink-100 text-pink-500 text-xs"
+            className="px-4 py-2 rounded-full bg-pink-100 hover:bg-pink-200 text-pink-500 text-xs"
           >
             GitHub
           </a>
@@ -33,7 +33,7 @@ function ProjectCard({ title, description, tech, image, github, demo }) {
             href={demo}
             target="_blank"
             rel="noopener noreferrer"
-            className="px-4 py-2 rounded-full bg-pink-400 text-white text-xs"
+            className="px-4 py-2 rounded-full bg-pink-400 hover:bg-pink-500 text-white text-xs"
           >
             Live Demo
           </a>
