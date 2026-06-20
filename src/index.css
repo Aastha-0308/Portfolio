@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@theme {
+  --font-comfortaa: "Comfortaa", sans-serif;
+  --font-quicksand: "Quicksand", sans-serif;
+  --font-monsieur: "Monsieur La Doulaise", cursive;
+  --font-dancing-script: "Dancing Script", cursive;
+}
